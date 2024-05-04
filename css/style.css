@@ -612,16 +612,12 @@ video {
   left: 4rem;
 }
 
-.left-7 {
-  left: 1.75rem;
-}
-
-.top-24 {
-  top: 6rem;
-}
-
 .left-6 {
   left: 1.5rem;
+}
+
+.left-7 {
+  left: 1.75rem;
 }
 
 .right-6 {
@@ -632,8 +628,8 @@ video {
   top: 5rem;
 }
 
-.z-40 {
-  z-index: 40;
+.top-24 {
+  top: 6rem;
 }
 
 .mx-auto {
@@ -1045,7 +1041,7 @@ video {
   left: 0;
   width: 24px;
   height: 2px;
-  background: #fff;
+  background: #9c9aa6;
   transform: rotate(0);
   transition: all 0.5s;
 }
