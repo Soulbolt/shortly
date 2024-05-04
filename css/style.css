@@ -962,6 +962,12 @@ video {
   color: rgb(234 179 8 / var(--tw-placeholder-opacity));
 }
 
+#cta {
+  background-image: url("../images/bg-boost-desktop.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .hover\:bg-cyanLight:hover {
   --tw-bg-opacity: 1;
   background-color: hsl(180 66% 69% / var(--tw-bg-opacity));
